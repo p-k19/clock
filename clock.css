@@ -203,3 +203,15 @@ body {
   height: 35%;
   background-color: rgb(20, 134, 228);
 }
+.time
+{
+  background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+  font-size: 12px;
+    margin-top: 1400px;
+    transform: scale(1.5);
+    margin-top: 240px;
+    right: 130px;
+    position: absolute;
+}
+
+
